@@ -1,0 +1,4 @@
+[workspace]
+
+members = ["egui_test"]
+resolver = "2"
